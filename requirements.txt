@@ -1,0 +1,1 @@
+# No dependencies - just like a real StackOverflow answer that says "use standard library"
